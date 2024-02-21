@@ -8,4 +8,4 @@ Week 2 (Feb. 8th): Tutorial 1 [Case study 1: Linear regression](https://github.c
 
 Week 3 (Feb. 15th): Tutorial 1 [Case study 2: Time series](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_24Spring/blob/main/T1%20Time%20series.ipynb).
 
-<!-- Week 4 or 5 (Feb. 28th or Mar. 7th): Tutorial 2 [Case study 2: Linear programming](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_23Spring/blob/main/T2%20Linear%20programming.ipynb). -->
+Week 4 (Feb. 22th): Tutorial 2 [Case study 2: Linear programming](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_24Spring/blob/main/T2%20Linear%20programming.ipynb). <!-- -->
