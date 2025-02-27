@@ -8,4 +8,4 @@ Welcome to the IEDA 4100 tutorial page. Here you can find supplementary programm
 
  Week 3 (Feb. 20th): Tutorial 1 [Case study 2: Time series](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_25Spring/blob/main/T1%20Time%20series.ipynb).
 
-  <!--Week 4 (Feb. 22th): Tutorial 2 [Case study 2: Linear programming](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_25Spring/blob/main/T2%20Linear%20programming.ipynb).  -->
+Week 4 (Feb. 27th): Tutorial 2 [Case study 2: Linear programming](https://github.com/jyun-bunny-honey/HKUST_IEDA4100_25Spring/blob/main/T2%20Linear%20programming.ipynb).
